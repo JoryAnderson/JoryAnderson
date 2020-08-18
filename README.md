@@ -10,6 +10,6 @@ Thank you very much for visiting my portfolio. I recently began moving things ar
 
 - 💬 Ask me about test automation technologies, new frameworks, parallelization, and test pipelining.
 
-- 📫 I can be found on [LinkedIn](https://www.linkedin.com/in/jory-anderson/): 
+- 📫 I can be found on [LinkedIn](https://www.linkedin.com/in/jory-anderson/).
 
 - ⚡ Fun fact: Catch me biking and hiking around the Victoria area! I am a huge fan of the outdoors and have recently taken an interest in astronomy.
