@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
-**JoryAnderson/JoryAnderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you very much for visiting my portfolio. I recently began moving things around as I just discovered this description feature that isn't really advertised at all. Feel free to poke around. I will be adding to this description, adding new projects, assignments, and continuing to move things around in the meantime.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on condensed summer courses, and myself during the pandemic. I will be returning to my scheduled program shortly!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning machine learning and data mining.
+
+- 👯 I’m looking to collaborate on anything! I am always willing to learn new skills and technologies.
+
+- 💬 Ask me about test automation technologies, new frameworks, parallelization, and test pipelining.
+
+- 📫 I can be found on [LinkedIn](https://www.linkedin.com/in/jory-anderson/): 
+
+- ⚡ Fun fact: Catch me biking and hiking around the Victoria area! I am a huge fan of the outdoors and have recently taken an interest in astronomy.
