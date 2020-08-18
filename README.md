@@ -4,7 +4,7 @@ Thank you very much for visiting my portfolio. I recently began moving things ar
 
 - 🔭 I’m currently working on condensed summer courses, and myself during the pandemic. I will be returning to my scheduled program shortly!
 
-- 🌱 I’m currently learning machine learning and data mining.
+- 🌱 I’m currently learning about machine learning and data mining.
 
 - 👯 I’m looking to collaborate on anything! I am always willing to learn new skills and technologies.
 
