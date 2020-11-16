@@ -4,9 +4,9 @@ Thank you very much for visiting my portfolio. I recently began moving things ar
 
 Feel free to poke around my pinned repositories! 
 
-- 🔭 I’m currently working on condensed summer courses, and myself during the pandemic. I will be returning to my scheduled program shortly!
+- 🔭 I’m  working on my final semester at university. I'm looking forward to diving into the industry soon!
 
-- 🌱 I’m currently learning about machine learning and data mining.
+- 🌱 I’m currently learning about applying empirical research methods to software engineering.
 
 - 👯 I’m looking to collaborate on anything! I am always willing to learn new skills and technologies.
 
