@@ -4,7 +4,7 @@ Thank you very much for visiting my portfolio. I recently began moving things ar
 
 Feel free to poke around my pinned repositories! 
 
-- 🔭 I’m  working on my final semester at university. I'm looking forward to diving into the industry soon!
+- 🔭 I just secured my first post-graduation employment opportunity! I'm hoping to keep my GitHub updated with additional projects and insights.
 
 - 🌱 I’m currently learning about applying empirical research methods to software engineering.
 
