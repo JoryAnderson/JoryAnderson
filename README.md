@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Thank you very much for visiting my portfolio. I recently began moving things around as I just discovered this description feature that isn't really advertised at all. I will be adding to this description, adding new projects, assignments, and continuing to move things around in the meantime.
+Thank you very much for visiting my portfolio. I've recently graduated and I'm still sort of transitioning from the "student lifestyle" and to one of full-time employment. I eventually hope to put some attention back to my side projects and progress those to completion. For now, I am content with sorting life out. Though please feel free to look through my projects!
 
 Feel free to poke around my pinned repositories! 
 
