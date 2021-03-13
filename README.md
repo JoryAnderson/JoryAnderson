@@ -16,4 +16,4 @@ Feel free to poke around my pinned repositories!
 
 - 📫 I can be found on [LinkedIn](https://www.linkedin.com/in/jory-anderson/).
 
-- ⚡ Fun fact: Catch me biking and hiking around the Victoria area! I am a huge fan of the outdoors and have recently taken an interest in astronomy.
+- ⚡ Fun fact: I am working completely remotely now! If you told me 3 years ago that I'd be programming fully remotely right out of university, I'd say you were out of your mind.
