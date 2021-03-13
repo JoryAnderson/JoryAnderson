@@ -8,7 +8,7 @@ Feel free to poke around my pinned repositories!
 
 - 🌱 I’m currently learning about quality assurance methodologies and automation frameworks.
 
-- 📚 The book I am currently reading is [The Clean Coder](https://www.amazon.ca/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) by [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)
+- 📚 The book I am currently reading is [The Clean Coder](https://www.amazon.ca/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) by [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin).
 
 - 👯 I’m looking to collaborate on anything! I am always willing to learn new skills and technologies.
 
