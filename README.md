@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Thank you very much for visiting my portfolio. I've been working professionally as a software developer for the past few years now. I' first started in a QA position and moved to a System Admin/DevOps/Developer role. I've been leaning more into the DevOps side of things -  recently I helped my department move from SVN onto GitLab, pipelines and all. Now we are moving to Cloud and I am hoping to start Guidewire and AWS certification soon. Please feel free to look through my projects!
+Thank you very much for visiting my portfolio. I've been working professionally as a software developer for the past few years now. I first started in a QA position and moved to a System Admin/DevOps/Developer role. I've been leaning more into the DevOps side of things -  recently I helped my department move from SVN onto GitLab, pipelines and all. Now we are moving to Cloud and I am hoping to start Guidewire and AWS certification soon. Please feel free to look through my projects!
 
 Feel free to poke around my pinned repositories! 
 
