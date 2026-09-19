@@ -31,7 +31,7 @@ Feel free to poke around my repositories!
     <th colspan="2">Languages</th>
     <th colspan="3">IDEs</th>
     <th colspan="2">Building</th>
-    <th colspan="2">Testing</th>
+    <th colspan="3">Testing</th>
   </tr>
   <tr>
    <!-- Languages -->
@@ -45,8 +45,10 @@ Feel free to poke around my repositories!
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40"/></td>
     <!-- Testing -->
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/junit/junit-plain-wordmark.svg" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/></td>
+
   </tr>
 </table>
 
