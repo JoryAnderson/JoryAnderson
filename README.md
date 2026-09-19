@@ -8,7 +8,9 @@ As these are insurance systems, I am working on my Guidewire ACE (lead) certific
 
 ---
 
-Feel free to poke around my pinned repositories! Whenever I create utility scripts I aim to publish them as Gists, [which you can find here](https://gist.github.com/JoryAnderson).
+Feel free to poke around my repositories!
+
+- ✏️ You can find my gists [here](https://gist.github.com/JoryAnderson).
 
 - 🔭 I've recently got back into contributing to FOSS! You may see some of my recent activity from this page.
 
