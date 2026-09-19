@@ -90,5 +90,5 @@ Feel free to poke around my pinned repositories! Whenever I create utility scrip
 
 ## 🏆 &nbsp;Awards
 
-[![trophy](https://trophy.nefarius.at/?username=JoryAnderson&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.nefarius.at/?username=JoryAnderson&theme=darkhub&no-bg=true&no-frame=true&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
